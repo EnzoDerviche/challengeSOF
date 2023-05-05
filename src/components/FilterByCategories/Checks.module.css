@@ -1,0 +1,12 @@
+.content{
+    display: flex;
+    flex-direction: column;
+}
+
+.content div{
+    display: flex;
+}
+
+.name{
+    font-weight: 400;
+}

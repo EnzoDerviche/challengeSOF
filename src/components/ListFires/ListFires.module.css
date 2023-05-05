@@ -1,0 +1,8 @@
+.firesList{
+    position: absolute;
+    right: 1.5rem;
+    top: 1rem;
+    z-index: 9999;
+    width: 44rem;
+    padding: auto;
+}

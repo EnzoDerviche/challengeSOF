@@ -1,0 +1,10 @@
+.contentInfo p{
+    margin: 5px 0px !important;
+};
+
+.contentInfo{
+    display: flex;
+    flex-direction: column;
+};
+
+

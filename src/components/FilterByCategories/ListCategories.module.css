@@ -1,0 +1,8 @@
+.categories{
+    position: absolute;
+    right: 1.5rem;
+    bottom: 2rem;
+    z-index: 9999;
+    width: 15rem;
+    padding: auto;
+}

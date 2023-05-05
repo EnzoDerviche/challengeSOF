@@ -1,0 +1,25 @@
+.mapIcon {
+  width: 7px;
+  height: 7px;
+  border-radius: 100%;
+  background-color: grey;
+}
+
+.procesado {
+  background-color: #771717 !important;
+}
+.saturado {
+  background-color: #B71C1C;
+}
+.probAlta {
+  background-color: #F44336;
+}
+.probMedia {
+  background-color: #FF7800;
+}
+.probBaja {
+  background-color: #F6BF26;
+}
+.nubes {
+  background-color: #49454F;
+}

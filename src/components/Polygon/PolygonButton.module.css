@@ -1,0 +1,19 @@
+.content{
+    position: absolute;
+    right: 18rem;
+    bottom: 2rem;
+    z-index: 9999;
+    width: 15rem;
+    padding: 0;
+}
+
+.btnsContents{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn{
+    padding: 7px 10px !important;
+    margin-left: 5px !important;
+}
